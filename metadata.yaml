@@ -1,5 +1,8 @@
 _repo: George-Eliot--a-Critical-Study-of-Her-Life-Writings-and-Philosophy_11680
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooke, George Willis
@@ -14,6 +17,8 @@ description: Preface; 1. Early life; 2. Translator and editor; 3. Marriage; 4. C
   Romola; 15. Felix Holt and Middlemarch; 16. Daniel Deronda; 17. The Spanish Gypsy
   and other poems; 18. Later essays; 19. The analytic method; 20. The limitations
   of her thought; 21. Bibliography; Index
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11680#George-Eliot--a-Critical-Study-of-Her-Life-Writings-and-Philosophy
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
